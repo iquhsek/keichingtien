@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keichingtien
-- 👀 I’m interested in reinforcement learning
+- 👀 I’m interested in pure math & reinforcement learning
 - 🌱 I’m currently learning algebraic topology
 - 💞️ I’m looking to collaborate on some multiagent reinforcement learning projects
 - 📫 Reach me via gmail
