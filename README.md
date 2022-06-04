@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @keichingtien
-- 👀 I’m interested in pure math & reinforcement learning
-- 🌱 I’m currently learning algebraic topology
-- 💞️ I’m looking to collaborate on some multiagent reinforcement learning projects
-- 📫 Reach me via gmail
+- 👋 This is @keichingtien
+- 👀 Pure math & reinforcement learning
+- 🌱 Algebraic topology
+- 💞️ MARL projects
+- 📫 Gmail
 
 <!---
 keichingtien/keichingtien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
